@@ -120,5 +120,5 @@ Asynchronous API calls to prevent UI freezing.
 
 
 
-Cloud Persistence instead of local file storage.
+
 
