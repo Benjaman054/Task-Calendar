@@ -2,27 +2,27 @@
 
 ##🚀 Key Features
 
-Smart Prioritization: Tasks are managed using a custom Priority Queue implementation (Java) to ensure efficient task scheduling.
+* Smart Prioritization: Tasks are managed using a custom Priority Queue implementation (Java) to ensure efficient task scheduling.
 
 
 
-Full-Stack Integration: A standalone Spring Boot 3 server handling business logic and user data.
+* Full-Stack Integration: A standalone Spring Boot 3 server handling business logic and user data.
 
 
 
-RESTful API: Seamless communication between the JavaFX client and the backend.
+* RESTful API: Seamless communication between the JavaFX client and the backend.
 
 
 
-Secure Authentication: User passwords are protected using BCrypt hashing for industry-standard security.
+* Secure Authentication: User passwords are protected using BCrypt hashing for industry-standard security.
 
 
 
-NoSQL Database: Persistent storage using MongoDB Atlas, enabling scalable data management.
+* NoSQL Database: Persistent storage using MongoDB Atlas, enabling scalable data management.
 
 
 
-Responsive UI: Built with JavaFX and CSS for a clean, desktop-first user experience.
+* Responsive UI: Built with JavaFX and CSS for a clean, desktop-first user experience.
 
 
 
