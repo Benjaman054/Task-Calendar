@@ -1,6 +1,6 @@
-\# TaskCalendar - Advanced Task Management System
+# TaskCalendar - Advanced Task Management System
 
-##🚀 Key Features
+## 🚀 Key Features
 
 * Smart Prioritization: Tasks are managed using a custom Priority Queue implementation (Java) to ensure efficient task scheduling.
 
@@ -26,29 +26,29 @@
 
 
 
-\## 🛠 Tech Stack
+## 🛠 Tech Stack
 
-Language: Java 25 (JDK 25)
-
-
-
-Frameworks: Spring Boot 3, JavaFX 21+
+* Language: Java 25 (JDK 25)
 
 
 
-Database: MongoDB
+* Frameworks: Spring Boot 3, JavaFX 21+
 
 
 
-Security: Spring Security \& BCrypt
+* Database: MongoDB
 
 
 
-Dependencies: GSON (for JSON parsing)
+* Security: Spring Security \& BCrypt
 
 
 
-\## ⚙️ Setup \& Installation
+* Dependencies: GSON (for JSON parsing)
+
+
+
+## ⚙️ Setup \& Installation
 
 Prerequisites
 
