@@ -56,69 +56,65 @@ To run this project, you must have the following installed:
 
 
 
-JDK 25 (Ensure JAVA\_HOME is set).
+* JDK 25 (Ensure JAVA\_HOME is set).
 
 
 
-JavaFX SDK (Required for the frontend).
+* JavaFX SDK (Required for the frontend).
 
 
 
-GSON Library (.jar file for JSON handling).
+* GSON Library (.jar file for JSON handling).
 
 
 
-1\. Backend Setup (Spring Boot)
+### Backend Setup (Spring Boot)
 
-Navigate to the TaskCalendar\_Server directory.
-
-
-
-Update the application.properties with your MongoDB Connection String.
+* Navigate to the TaskCalendar\_Server directory.
 
 
 
-Run the server using Maven:
+* Update the application.properties with your MongoDB Connection String.
 
 
 
-Bash
-
-mvn spring-boot:run
-
-2\. Frontend Setup (JavaFX)
-
-Open the project in your IDE (Cursor/IntelliJ/Eclipse).
+* Run the server using Maven:
 
 
 
-Add the JavaFX and GSON libraries to your project structure (Project Structure -> Libraries).
+### Bash
+
+* mvn spring-boot:run
+
+### Frontend Setup (JavaFX)
+
+* Open the project in your IDE (Cursor/IntelliJ/Eclipse).
 
 
 
-Add the following VM options to your Run Configuration:
+* Add the JavaFX and GSON libraries to your project structure (Project Structure -> Libraries).
 
 
 
-Plaintext
+* Add the following VM options to your Run Configuration:
 
 \--module-path /path/to/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml
 
-Launch the Main application.
+* Launch the Main application.
 
 
 
-\## 🧬 Project Evolution
+## 🧬 Project Evolution
 
-This project evolved from a university assignment focusing on Object-Oriented Programming (OOP) and Data Structures into a production-ready architecture featuring:
-
-
-
-Dependency Injection (Spring Boot).
+### This project evolved from a university assignment focusing on Object-Oriented Programming (OOP) and Data Structures into a production-ready architecture featuring:
 
 
 
-Asynchronous API calls to prevent UI freezing.
+* Dependency Injection (Spring Boot).
+
+
+
+* Asynchronous API calls to prevent UI freezing.
 
 
 
