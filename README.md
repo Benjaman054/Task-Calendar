@@ -22,7 +22,7 @@
 
 
 
-* Responsive UI: Built with JavaFX and CSS for a clean, desktop-first user experience.
+* Responsive UI: Built with JavaFX for a clean, desktop-first user experience.
 
 
 
