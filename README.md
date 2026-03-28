@@ -26,7 +26,7 @@ Responsive UI: Built with JavaFX and CSS for a clean, desktop-first user experie
 
 
 
-\##🛠 Tech Stack
+\## 🛠 Tech Stack
 
 Language: Java 25 (JDK 25)
 
@@ -48,7 +48,7 @@ Dependencies: GSON (for JSON parsing)
 
 
 
-\##⚙️ Setup \& Installation
+\## ⚙️ Setup \& Installation
 
 Prerequisites
 
@@ -108,7 +108,7 @@ Launch the Main application.
 
 
 
-\##🧬 Project Evolution
+\## 🧬 Project Evolution
 
 This project evolved from a university assignment focusing on Object-Oriented Programming (OOP) and Data Structures into a production-ready architecture featuring:
 
